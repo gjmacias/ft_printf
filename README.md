@@ -9,7 +9,7 @@ En este proyecto recrearemos desde 0 la funcion printf.
 
 ### Que es ft_printf?
 ft_printf es un projecto de [42][1] donde recreamos el funcionamiento de `printf`.
-En nuestro ft_printf pued usar las siguientes conversiones:
+En nuestro ft_printf puedes usar las siguientes conversiones:
 
 | Conversión  | Descripción|
 |-------|-----------------------------------------------------------------------------------|
