@@ -68,7 +68,7 @@ y eso seria todo!
 # Quizás pueda interesarte!
 
 ### - Para ver mi progresion en 42 🌠
-
+[AQUÍ](https://github.com/gjmacias/42BCN)
 
 ### - Mi perfil de 42 👾
 [AQUÍ](https://profile.intra.42.fr/users/gmacias-)
