@@ -61,10 +61,6 @@ Luego debes añadirlo en el compilador, primero la ruta de libftprintf.a y luego
 
 y eso seria todo!
 
-# Contacto 📥
-
-◦ Email: gmacias-@student.42barcelona.com
-
 # Quizás pueda interesarte!
 
 ### - Para ver mi progresion en 42 🌠
@@ -72,5 +68,9 @@ y eso seria todo!
 
 ### - Mi perfil de 42 👾
 [AQUÍ](https://profile.intra.42.fr/users/gmacias-)
+
+# Contacto 📥
+
+◦ Email: gmacias-@student.42barcelona.com
 
 [1]: https://www.42barcelona.com/ "42 BCN"
