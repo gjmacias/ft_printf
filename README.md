@@ -69,6 +69,9 @@ y eso seria todo!
 ### - Mi perfil de 42 👾
 [AQUÍ](https://profile.intra.42.fr/users/gmacias-)
 
+### - Mis proyectos personales 🧐
+[AQUÍ🗒️](https://github.com/gjmacias/autoproyectos)
+
 # Contacto 📥
 
 ◦ Email: gmacias-@student.42barcelona.com
