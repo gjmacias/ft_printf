@@ -1,4 +1,4 @@
-# libft - gmacias-
+# ft_printf - gmacias-
 En este proyecto recrearemos desde 0 la funcion printf.
 
 ### Indice
